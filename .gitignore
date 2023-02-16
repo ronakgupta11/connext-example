@@ -1,0 +1,17 @@
+cache/
+out/
+dist/
+node_modules/
+broadcast/
+.DS_Store
+
+# Ignore Environment Variables!
+.env
+.env.prod
+.env.local
+
+# Ignore all vscode settings
+.vscode/
+
+# Ignore flattened files
+flattened.txt
